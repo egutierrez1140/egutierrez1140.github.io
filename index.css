@@ -26,7 +26,7 @@ body {
 .navBar {
 	list-style-type: none;
 	margin: 0;
-	padding: 5px;
+	padding: 10px;
 	text-align: center;
 	background-color: #cc99ff;
 	border-radius: 20px;
@@ -80,4 +80,32 @@ body {
 
 .dropdown:hover .dropdownContent {
 	display: block;
+}
+
+/* Additional elements */
+h1 {
+	margin-bottom: 0;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #88ff88;
+	border-radius: 20px;
+	border: 2px solid black;
+}
+.box {
+	margin: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #ffffff;
+	border-radius: 20px;
+	border: 2px solid black;
+}
+
+footer {
+	margin-top: 5%;
+	padding: 5px;
+	text-align: center;
+	background-color: #cc99ff;
+	border-radius: 20px;
+	border: 2px solid #000000;
 }
