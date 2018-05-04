@@ -1,6 +1,6 @@
 body {
 	background-image: url(images/seamless.jpg);
-	font-family: "Times New Roman", Times, serif;
+	font-family: Times New Roman, Times, serif;
 }
 
 .banner {
@@ -108,4 +108,16 @@ footer {
 	background-color: #cc99ff;
 	border-radius: 20px;
 	border: 2px solid #000000;
+}
+
+.rightText {
+	text-align: right;
+}
+
+.centerText {
+	text-align: center;
+}
+
+.consolasText {
+	font-family: Consolas, monaco, monospace;
 }
